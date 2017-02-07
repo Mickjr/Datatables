@@ -1,0 +1,12 @@
+.tooltipster-yellow {
+	border-radius: 5px;
+	background: #FFFFA9;
+	box-shadow: 0px 0px 14px rgba(0,0,0,0.3);
+	color: #2c2c2c;
+}
+.tooltipster-yellow .tooltipster-content {
+	font-family: 'Arial', sans-serif;
+	font-size: 14px;
+	line-height: 16px;
+	padding: 8px 10px;
+}

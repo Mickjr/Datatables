@@ -1,0 +1,32 @@
+#wrapper {
+
+    display: block;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+
+}
+.select2-container .select2-selection--single {
+    height: 34px;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 34px;
+}
+.form-group label {
+    padding-top: 5px;
+}
+#results {
+    margin-top: 20px;
+}
+#expBtns {
+    margin: 10px 0 0;
+}
+#csvExport {
+    margin-right: 14px;
+    height: 40px;
+    width: 130px;
+}
+.picker__select--month, .picker__select--year {
+    padding: 0;
+    font-size: 12px;
+}
